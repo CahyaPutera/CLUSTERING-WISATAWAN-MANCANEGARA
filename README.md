@@ -43,6 +43,7 @@ Jumlah cluster terbaik ditunjukkan dengan nilai DB yang semakin kecil.
 Melihat hasil DB Index, dalam hal ini metode K-Means Clustering lebih baik jika di bandingkan dengan metode Hierarchical / Agglomerative Clustering.
 Artinya melalui **K-Means Clustering** dapat di simpulkan bahwa terdapat 3 cluster, yaitu *cluster 0, cluster 1, dan cluster2*. 
 Sebagian besar wisatawan yang berkunjung ke Indonesia melewati pintu masuk dari bandara *Ngurah Rai* di Bali. 
+
 Sehingga jika menjawab pertanyaan pada Latar Belakang masalah, sebaiknya prioritas pembangunan dan penempatan tenaga kerja di bidang pariwisata di fokuskan pada daerah Bali dan sekitarnya. 
 Namun agak sulit untuk mengatakan bahwa cluster lainnya sebaiknya diabaikan, terlebih pada cluster 0. 
 Karena memang sebagian besar kota kunjungan wisman pada cluster 0 ini bukan merupakan daerah pariwisata yang terkenal,
